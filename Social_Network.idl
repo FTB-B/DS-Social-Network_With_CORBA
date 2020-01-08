@@ -1,0 +1,10 @@
+module social_network_system
+{
+   interface Social_Network
+   {
+     //string login(in string username ,in string groupname , in string groupass);
+	 string sregister(in string user , in string username  );
+	 string Gcreate(in string username , in string password , in string groupname);
+   };
+   
+};

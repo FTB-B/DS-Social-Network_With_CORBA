@@ -1,0 +1,14 @@
+module social_network_system
+{
+   interface Coordinator
+   {
+     string login(in string username ,in string groupname , in string groupass);
+	 string join(in string name , in string username , in string groupname );
+	 string answer(in string username , in string newusername , in string groupname , in string answer);
+	 string getcoordinator(in string username , in string groupname , in string grouppass);
+	 string leave(in string username , in string groupname , in string grouppass);
+	// string leave(in string username , in string groupname);
+	 //string Gcreate(in string username , in string password , in string groupname);
+   };
+   
+};

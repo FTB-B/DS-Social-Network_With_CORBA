@@ -1,0 +1,8 @@
+module social_network_system
+{
+  interface DMessage
+  {
+    void GetUniMessage (in string message, in string sender);
+    void GetGroupMessage (in string message, in string sender);
+  };
+};

@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Apr 16 02:53:53 IRDT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-013e-0fcc-1413-0000034f25c8 
+on database directory C:\Apache\db-derby-10.9.1.0-bin\bin\socialnet\DB\socialnetworkdb  with class loader sun.misc.Launcher$AppClassLoader@560dd7a7 
+Loaded from file:/C:/Apache/db-derby-10.9.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_13-b20
+user.dir=C:\Users\fati\Desktop\newp\socialnetwork\newtest
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
